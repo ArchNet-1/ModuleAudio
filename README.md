@@ -6,7 +6,7 @@
     <img src="https://github.com/ArchNetModule/Stockage/blob/master/Images/ArchNetLogo.png" alt="Logo" width="300">
   </a>
 
-  <h3 align="center">Module Shadow</h3>
+  <h3 align="center">Module Audio</h3>
 </p>
 
 
@@ -45,7 +45,7 @@ That all folks !
 <!-- Usage -->
 ## usage
 
-This module is a simple project data displayer in runtime.
+This module is a simple audio settings management for your project.
 
 Get the github HTTPS project url and load it in Unity Package Manager windows
 
@@ -58,9 +58,9 @@ in Unity : Windows -> Package Manager -> + -> Add package from git url
 
 2. Clone the repo
 
-3. Drag and drop Prefab "ModuleShadow"  from the package into a Canvas component
+3. Drag and drop Prefab "ModuleAudio"  from the package into a Canvas component
 
-4. Join Module Traslate (optional)
+4. Link Music/GameSound Slider and Toggle
 
 5. Launch scene
 
