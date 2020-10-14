@@ -1,0 +1,22 @@
+{
+  "name": "com.archnet.module.audio",
+  "version": "1.0.1",
+  "displayName": "Arch Net Module Audio",
+  "description": "This module add a Audio settings management",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Module",
+    "Audio",
+    "Custom"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.1"
+  }
+}
