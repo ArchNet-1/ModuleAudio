@@ -67,7 +67,7 @@ in Unity : Windows -> Package Manager -> + -> Add package from git url
 
 [OPTIONAL]
 
-By default every text is on the format "key_", if you want to complete this module, add Module Translate and follow the module instuction.
+By default every text is on the format "key_", if you want to complete this module, add Module Localization and follow the module instuction.
 
 <!-- CONTACT -->
 ## Contact
