@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://github.com/ArchNetModule/Stockage/blob/master/Images/ArchNetLogo.png" alt="Logo" width="300">
+    <img src="https://archnet-plateform.fr/images/ArchNetLogoWithBck.png" alt="Logo" width="300">
   </a>
 
   <h3 align="center">Module Audio</h3>
