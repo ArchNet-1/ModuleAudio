@@ -344,7 +344,7 @@ MonoBehaviour:
   _musicSlider: {fileID: 5087432519130902663}
   _gameSoundSlider: {fileID: 9141661335858521518}
   _musicToggle: {fileID: 2199004283751405435}
-  _gameSoundToggle: {fileID: 2199004283751405435}
+  _gameSoundToggle: {fileID: 4628103669727968155}
 --- !u!1 &1437079262980173182
 GameObject:
   m_ObjectHideFlags: 0
