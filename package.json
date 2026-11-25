@@ -1,22 +1,23 @@
 {
   "name": "com.archnet.module.audio",
-  "version": "1.0.1",
-  "displayName": "Arch Net Module Audio",
-  "description": "This module add a Audio settings management",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Audio Module",
+  "description": "Audio settings for an options menu: volume and mute for music and game sounds, applied at once and saved.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#ModuleAudio",
+  "changelogUrl": "https://github.com/ArchNet-1/ModuleAudio/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/ModuleAudio/blob/master/LICENSE.md",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Module",
-    "Audio",
-    "Custom"
+    "archnet",
+    "module",
+    "audio"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
-  },
-  "dependencies": {
-    "com.unity.textmeshpro": "3.0.1"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }

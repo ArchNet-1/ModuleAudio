@@ -1,75 +1,26 @@
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="">
-    <img src="https://archnet-plateform.fr/images/ArchNetLogoWithBck.png" alt="Logo" width="300">
-  </a>
-
-  <h3 align="center">Module Audio</h3>
+  <a href="https://archnet-plateform.fr"><img src="https://archnet-plateform.fr/ArchNetLogoWithBck.png" alt="ArchNet" width="240"></a>
 </p>
 
+# ArchNet · Audio Module
 
+Audio settings for an options menu: volume and mute for music and game sounds, applied at once and saved.
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
+- Unity **6000.0** or newer · Needs `com.unity.ugui`.
+- Part of [ArchNet](https://archnet-plateform.fr), free and open-source Unity packages
 
-* [What is ArchNet](#about-the-project)
-* [Usage](#usage)
-* [Contact](#contact)
+## Install
 
+*Window > Package Manager > + > Install package from git URL…*
 
+```
+https://github.com/ArchNet-1/ModuleAudio.git
+```
 
-<!-- ABOUT THE PROJECT -->
-## What is Arch Net
+## Use
 
-Arch Net is a free list of simple module to help people to develop a video game.
-All module are free and open source ! feel free to help or to ask some new module by contacting "archnetmodule@gmail.com"
+Drop the **ModuleAudio** prefab (`Runtime/Resources/Prefabs`) into your menu canvas. From code: `SetMusicVolume(0.5f)`, `SetSoundMuted(true)`.
 
-Every module are not perfect, develop for a basic usage, feel free to customize or update them.
+## License
 
-Why use Arch Net module ?
-
-Here's why:
-* Your time should be focused on creating something amazing.
-* Don't waste time ! the module are here to help you !
-* You are not a developer ? You can use it too !
-
-Of course, this is not a pro service, of course there will be bug or error, shit happen, please contact us if you have some issue with one of our module !
-
-The best reward for us is to see our module used in video game ! :) 
-
-That all folks !
-
-
-<!-- Usage -->
-## usage
-
-This module is a simple audio settings management for your project.
-
-Get the github HTTPS project url and load it in Unity Package Manager windows
-
-in Unity : Windows -> Package Manager -> + -> Add package from git url
-
-### Installation
-
-1. Get the github HTTPS project url and load it in Unity Package Manager windows
-in Unity : Windows -> Package Manager -> + -> Add package from git url
-
-2. Clone the repo
-
-3. Drag and drop Prefab "ModuleAudio"  from the package into a Canvas component
-
-4. Link Music/GameSound Slider and Toggle
-
-5. Launch scene
-
-
-[OPTIONAL]
-
-By default every text is on the format "key_", if you want to complete this module, add Module Localization and follow the module instuction.
-
-<!-- CONTACT -->
-## Contact
-
-Arch Net - archnetmodule@gmail.com
+See [LICENSE.md](LICENSE.md).
