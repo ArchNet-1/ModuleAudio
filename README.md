@@ -23,4 +23,4 @@ Drop the **ModuleAudio** prefab (`Runtime/Resources/Prefabs`) into your menu can
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).

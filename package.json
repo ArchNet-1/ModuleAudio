@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Audio Module",
   "description": "Audio settings for an options menu: volume and mute for music and game sounds, applied at once and saved.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#ModuleAudio",
   "changelogUrl": "https://github.com/ArchNet-1/ModuleAudio/blob/master/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/ModuleAudio/blob/master/LICENSE.md",
