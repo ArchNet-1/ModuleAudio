@@ -1,8 +1,8 @@
 {
   "name": "com.archnet.module.audio",
   "version": "2.0.0",
-  "displayName": "ArchNet - Audio Module",
-  "description": "Audio settings for an options menu: volume and mute for music and game sounds, applied at once and saved.",
+  "displayName": "ArchNet - Audio Module (deprecated)",
+  "description": "Deprecated: use the Settings Module (com.archnet.module.settings), which has volumes per channel. Audio settings for an options menu: volume and mute for music and game sounds, applied at once and saved.",
   "unity": "6000.0",
   "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#ModuleAudio",
